@@ -5,6 +5,10 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  myhash = {
+    this: "mine",
+    that: "thiers"
+  }
 end
 
 def pioneer
